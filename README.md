@@ -1,9 +1,9 @@
 # Data-Science
-Primera Pre-Entrega Proyecto Final
+## Primera Pre-Entrega Proyecto Final
 
 El Dataset que elegí me parece bastante interesante porque permite visualizar a simple vista el nivel de crecimiento de los empleos relacionados con la Ciencia de Datos y la evolución y composición de los salarios de esta disciplina en auge y constante crecimiento.
 
-A continuación se incluye una descripción de las columnas del Dataset
+## A continuación se incluye una descripción de las columnas del Dataset
 
 work_year = Año de pago
 
@@ -27,7 +27,7 @@ company_location = País de origen de la empresa (ISO 3166)
 
 company_size = Tamaño de la empresa medido en cantidad de empleados: S Menos de 50 empleados (small); M Entre 50 y 250 empleados (medium); L más de 250 empleados (large)
 
-Hipotesis de interés
+## Hipotesis de interés
 
 ¿Cómo se relaciona el Seniority con el tipo de empleo, país de residencia, país de origen de la empresa y el ratio de trabajo remoto?
 
