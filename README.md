@@ -33,6 +33,9 @@ company_size = Tamaño de la empresa medido en cantidad de empleados: S Menos de
 
 ¿A mayor Seniority mayor trabajo remoto?
 
+Cómo primera conclusión podemos afirmar que en el período de post-pandemia se incrementaron notoriamente los salarios del rubro Data Science.
+Un punto llamativo es que quienes perciben salarios más altos son las personas que trabajan de manera presencial.
+Si sólo nos centramos en en el ingreso por experiencia quienes perciben mayor salario son los Expertos cómo se puede suponer a priori.
 
 
 
