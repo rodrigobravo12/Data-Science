@@ -29,7 +29,7 @@ company_size = Tamaño de la empresa medido en cantidad de empleados: S Menos de
 
 ### Hipotesis de interés y tipo de aprendizaje del modelo
 
-Elijo como variable objetivo salary_in_usd y el tipo de aprendizaje será No Supervisado
+Elijo como variable objetivo salary_in_usd y el tipo de aprendizaje será supervisado
 
 ### Conclusiones generales
 
