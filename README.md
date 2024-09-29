@@ -34,6 +34,7 @@ Elijo como variable objetivo salary_in_usd y el tipo de aprendizaje será superv
 ### Conclusiones generales
 
 Al tratarse de un dataset pequeño no es para nada representativo y el modelo seguramente está overfiteado y ante algún cambio de variables no va a responder para nada bien
+
 El algoritmo que tuvo mejores resultados fue XGBOOST con un 99% de grado de acierto.
 
 Más allá de esto por los gráficos obtenidos se puede afirmar que en el período de post-pandemia se incrementaron notoriamente los salarios del rubro Data Science.
