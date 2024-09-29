@@ -27,11 +27,11 @@ company_location = País de origen de la empresa (ISO 3166)
 
 company_size = Tamaño de la empresa medido en cantidad de empleados: S Menos de 50 empleados (small); M Entre 50 y 250 empleados (medium); L más de 250 empleados (large)
 
-### Hipotesis de interés
+### Hipotesis de interés y tipo de aprendizaje del modelo
 
-¿Cómo se relaciona el Seniority con el tipo de empleo, país de residencia, país de origen de la empresa y el ratio de trabajo remoto?
+Elijo como variable objetivo salary_in_usd y el tipo de aprendizaje será No Supervisado
 
-¿A mayor Seniority mayor trabajo remoto?
+### Conclusiones generales
 
 Cómo primera conclusión podemos afirmar que en el período de post-pandemia se incrementaron notoriamente los salarios del rubro Data Science.
 Un punto llamativo es que quienes perciben salarios más altos son las personas que trabajan de manera presencial.
