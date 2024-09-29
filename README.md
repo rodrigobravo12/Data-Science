@@ -29,11 +29,14 @@ company_size = Tamaño de la empresa medido en cantidad de empleados: S Menos de
 
 ### Hipotesis de interés y tipo de aprendizaje del modelo
 
-Elijo como variable objetivo salary_in_usd y el tipo de aprendizaje será supervisado
+Elijo como variable objetivo salary_in_usd y el tipo de aprendizaje será supervisado por regresión lineal
 
 ### Conclusiones generales
 
-Cómo primera conclusión podemos afirmar que en el período de post-pandemia se incrementaron notoriamente los salarios del rubro Data Science.
+Al tratarse de un dataset pequeño no es para nada representativo y el modelo seguramente está overfiteado y ante algún cambio de variables no va a responder para nada bien
+El algoritmo que tuvo mejores resultados fue XGBOOST con un 99% de grado de acierto.
+
+Más allá de esto por los gráficos obtenidos se puede afirmar que en el período de post-pandemia se incrementaron notoriamente los salarios del rubro Data Science.
 Un punto llamativo es que quienes perciben salarios más altos son las personas que trabajan de manera presencial.
 Si sólo nos centramos en en el ingreso por experiencia quienes perciben mayor salario son los Expertos cómo se puede suponer a priori.
 
